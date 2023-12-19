@@ -2,23 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-14T09:29:00 EST" name="Default suite" finished-at="2023-12-14T09:31:40 EST" duration-ms="160584">
+  <suite started-at="2023-12-19T09:45:54 EST" name="Default suite" finished-at="2023-12-19T09:46:18 EST" duration-ms="24053">
     <groups>
     </groups>
-    <test started-at="2023-12-14T09:29:00 EST" name="Default test" finished-at="2023-12-14T09:31:40 EST" duration-ms="160584">
+    <test started-at="2023-12-19T09:45:54 EST" name="Default test" finished-at="2023-12-19T09:46:18 EST" duration-ms="24053">
       <class name="tests.TestRecipeScraping">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestRecipeScraping@3e08ff24]" started-at="2023-12-14T09:29:00 EST" name="setup" finished-at="2023-12-14T09:29:10 EST" duration-ms="10129" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testScrapingEcommerce()[pri:0, instance:tests.TestRecipeScraping@3e08ff24]" started-at="2023-12-14T09:29:10 EST" name="testScrapingEcommerce" finished-at="2023-12-14T09:31:39 EST" duration-ms="149540" status="PASS">
+        <test-method signature="testScrapingEcommerce()[pri:0, instance:tests.TestRecipeScraping@35ef1869]" started-at="2023-12-19T09:45:54 EST" name="testScrapingEcommerce" finished-at="2023-12-19T09:46:18 EST" duration-ms="23969" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScrapingEcommerce -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestRecipeScraping@3e08ff24]" started-at="2023-12-14T09:31:39 EST" name="tearDown" finished-at="2023-12-14T09:31:40 EST" duration-ms="836" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
       </class> <!-- tests.TestRecipeScraping -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
